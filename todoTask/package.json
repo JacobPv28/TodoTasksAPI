@@ -1,0 +1,22 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "description": "Task application deployed using Heroku, NodeJS, EXPRESS, MongoDb and Vue",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobPv28/TodoTasksAPI.git"
+  },
+  "author": "Jacobbo Parra V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobPv28/TodoTasksAPI/issues"
+  },
+  "homepage": "https://github.com/JacobPv28/TodoTasksAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
